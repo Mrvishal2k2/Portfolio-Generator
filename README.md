@@ -4,7 +4,7 @@ A webapp made in Django to generate a portfolio.
 A sample portfolio built using hoxnox can be seen at [https://hoxnox.herokuapp.com/AnupamDagar/26/](http://hoxnox.herokuapp.com/AnupamDagar/26/)
 
 ## Please note that currently only Google oauth is working on the hosted app at [https://hoxnox.herokuapp.com](https://hoxnox.herokuapp.com)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # Generate your portfolio in 3 easy steps:
 1. Login or signup
 2. Enter required details.
